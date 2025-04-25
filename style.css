@@ -1,7 +1,6 @@
 body{
 
-    margin: 0;
-    background-color: #46635D;
+    margin: 0;    background-color:red;
 }
 .hed{
     text-align: center;
@@ -76,23 +75,15 @@ nav ul li a:hover{
     color: white;
     width: 40%;
 }
-.paragraph, .pic{
-    
 
-}
 .contact{
     
     text-align: center;
     
 
 }
-.portfolio{
-    
-    
-}
-.certs{
 
-}
+
 .hero:hover, .certs:hover, .contact:hover, .portfolio:hover, .services:hover{
     border-radius: 30px;
 }
